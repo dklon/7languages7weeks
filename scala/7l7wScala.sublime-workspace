@@ -1,0 +1,248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"si",
+				"size"
+			],
+			[
+				"o",
+				"obj	shortcut - object"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "StringClass.scala",
+			"settings":
+			{
+				"buffer_size": 575,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/danielkwan/Projects/7languages7weeks/haskell/7days3/starterSpec.hs",
+		"/Users/danielkwan/Projects/scala/project/src/test/scala/testCensorTrait.scala",
+		"/Users/danielkwan/Projects/scala/project/src/main/scala/StringClass.scala",
+		"/Users/danielkwan/Projects/scala/project/src/test/scala/testTextSizer.scala",
+		"/Users/danielkwan/Programming/scala/project/src/main/scala/TextSizer.scala",
+		"/Users/danielkwan/Programming/scala/project/words.csv",
+		"/Users/danielkwan/Programming/scala/project/src/main/scala/StringClass.scala",
+		"/Users/danielkwan/Programming/scala/project/src/test/scala/testCensorTrait.scala",
+		"/Users/danielkwan/Programming/scala/project/src/test/scala/testTextSizer.scala",
+		"/Users/danielkwan/Programming/scala/project/target/test-reports/TestTextSizer.xml",
+		"/Users/danielkwan/Programming/scala/project/target/test-reports/TestCensorTrait.xml",
+		"/Users/danielkwan/Programming/scala/Build.sbt",
+		"/Users/danielkwan/Programming/scala/testTextSizer.scala",
+		"/Users/danielkwan/Programming/scala/HelloWorld.scala",
+		"/Users/danielkwan/Programming/scala/TicTacToe.scala",
+		"/Users/danielkwan/eclipse/open_eclipse.sh",
+		"/Users/danielkwan/eclipse/plugins/org.apache.ant_1.8.4.v201303080030/bin/ant",
+		"/Users/danielkwan/Programming/elasticsearch-1.0.1/data/elasticsearch/nodes/0/indices/movies/2/index/_0.cfs",
+		"/Users/danielkwan/Programming/elasticsearch-1.0.1/config/elasticsearch.yml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"def",
+			"instance.",
+			"  val instance = new StringClass()",
+			"class StringSubClass extends StringCensor {\n\n}",
+			"StringClass",
+			"Words",
+			"stringSubClassInstance",
+			"∂∂∂∂",
+			"		// var tempString = string\n		// for((key, value) <- mapping) {\n		// 	tempString = new StringOps(tempString).replaceAllLiterally(key, value)\n		// }\n		// return tempString\n",
+			"x.",
+			"		if (string == \"Shoot\") {\n			return \"Pucky\"\n		}\n		else if (string == \"Darn\") {\n			ret",
+			"    it(\"should censor 'Shoot' to 'Pucky'\") {\n    	censor(\"Shoot\") should be (\"Pucky\")\n    }\n",
+			"	def censor2(x : String) : String = {\n		return x\n	}",
+			"StringCensor",
+			"_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"instance",
+			"stringSubClassInstance."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/danielkwan/Projects/7languages7weeks/scala/project"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "StringClass.scala",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"testscala",
+				"src/test/scala/testCensorTrait.scala"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mTestTextSizer:[0m[0m
+[0m[[0minfo[0m] [0m[32mA text sizer[0m[0m
+[0m[[0minfo[0m] [0m[32m- should give length zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- should give length 1 for one element size 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should give length 2 for two elements size 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should give length 2 for one elements size 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- should give length 4 for AB and CD[0m[0m
+[0m[[0minfo[0m] [0m[32m- should give length 14 for AB, CD, EFG, H, IJKLMN[0m[0m

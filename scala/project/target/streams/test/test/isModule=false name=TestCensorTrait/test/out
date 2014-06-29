@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mTestCensorTrait:[0m[0m
+[0m[[0minfo[0m] [0m[32mA censor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should censor 'Hello, World' to 'Hello, World'[0m[0m
+[0m[[0minfo[0m] [0m[32m- should censor 'Shoot' to 'Pucky'[0m[0m
+[0m[[0minfo[0m] [0m[32m- should censor 'Darn' to 'Beans'[0m[0m
+[0m[[0minfo[0m] [0m[32m- should censor 'Hello, Darn' to 'Hello, Beans'[0m[0m
+[0m[[0minfo[0m] [0m[32m- should censor 'Hello, Shoot' to 'Hello, Pucky'[0m[0m
+[0m[[0minfo[0m] [0m[32m- should censor 'Hello, Shoot, World, Darn' to 'Hello, Pucky, World, Beans'[0m[0m
+[0m[[0minfo[0m] [0m[32m- should censor 'shoot' to 'pucky'[0m[0m
+[0m[[0minfo[0m] [0m[32m- should censor 'darn' to 'beans'[0m[0m

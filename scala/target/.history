@@ -1,0 +1,4 @@
+ls
+testTextSize.scala
+help
+sbt testTextSizer.scala
