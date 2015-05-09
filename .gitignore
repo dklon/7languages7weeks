@@ -1,2 +1,4 @@
 *.class
 .history
+scala/project/project/target/
+scala/project/target/

@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/Users/danielkwan/Projects/scala/project/}project...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/Users/danielkwan/Projects/7languages7weeks/scala/project/}project...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: name-goes-here#name-goes-here_2.10;0.0.1[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for name-goes-here#name-goes-here_2.10;0.0.1 [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies name-goes-here#name-goes-here_2.10;0.0.1->org.scala-lang#scala-library;2.10.4 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.4 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@716e3340[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73845d01[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.4 in sbt-chain[0m
@@ -192,19 +192,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.4!scala-reflect.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 330ms :: artifacts dl 10ms[0m
-[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 compile produced in /Users/danielkwan/Projects/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 runtime produced in /Users/danielkwan/Projects/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 test produced in /Users/danielkwan/Projects/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 provided produced in /Users/danielkwan/Projects/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 optional produced in /Users/danielkwan/Projects/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 compile-internal produced in /Users/danielkwan/Projects/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 runtime-internal produced in /Users/danielkwan/Projects/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 test-internal produced in /Users/danielkwan/Projects/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 plugin produced in /Users/danielkwan/Projects/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 sources produced in /Users/danielkwan/Projects/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 docs produced in /Users/danielkwan/Projects/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 pom produced in /Users/danielkwan/Projects/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 scala-tool produced in /Users/danielkwan/Projects/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (330ms resolve - 10ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 255ms :: artifacts dl 12ms[0m
+[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 compile produced in /Users/danielkwan/Projects/7languages7weeks/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 runtime produced in /Users/danielkwan/Projects/7languages7weeks/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 test produced in /Users/danielkwan/Projects/7languages7weeks/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 provided produced in /Users/danielkwan/Projects/7languages7weeks/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 optional produced in /Users/danielkwan/Projects/7languages7weeks/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 compile-internal produced in /Users/danielkwan/Projects/7languages7weeks/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 runtime-internal produced in /Users/danielkwan/Projects/7languages7weeks/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 test-internal produced in /Users/danielkwan/Projects/7languages7weeks/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 plugin produced in /Users/danielkwan/Projects/7languages7weeks/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 sources produced in /Users/danielkwan/Projects/7languages7weeks/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 docs produced in /Users/danielkwan/Projects/7languages7weeks/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 pom produced in /Users/danielkwan/Projects/7languages7weeks/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for name-goes-here#name-goes-here_2.10;0.0.1 scala-tool produced in /Users/danielkwan/Projects/7languages7weeks/scala/project/target/resolution-cache/reports/name-goes-here-name-goes-here_2.10-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (255ms resolve - 12ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

@@ -2,3 +2,5 @@ ls
 testTextSize.scala
 help
 sbt testTextSizer.scala
+test
+exit
