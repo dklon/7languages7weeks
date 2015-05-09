@@ -15,6 +15,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/danielkwan/Projects/javascript/src/main.js",
+			"settings":
+			{
+				"buffer_size": 21,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -43,14 +51,10 @@
 	},
 	"file_history":
 	[
-		"/Users/danielkwan/Projects/7languages7weeks/scala/project/src/main/scala/sizer/sizer.scala",
-		"/Users/danielkwan/Projects/LSCC/outside_in_tdd/ReadMe.md",
-		"/Users/danielkwan/Projects/7languages7weeks/scala/project/Outside-In TDD: Online Store",
-		"/Users/danielkwan/Projects/7languages7weeks/scala/project/sizer.scala",
-		"/Users/danielkwan/Projects/7languages7weeks/scala/project/src/main/scala/sizer.scala",
-		"/Users/danielkwan/Projects/7languages7weeks/scala/project/Build.sbt",
+		"/Users/danielkwan/Projects/javascript/index.html",
+		"/Users/danielkwan/Projects/javascript/src/main.js",
+		"/Users/danielkwan/Projects/javascript/main.js",
 		"/Users/danielkwan/Projects/7languages7weeks/scala/project/src/main/scala/StringClass.scala",
-		"/Users/danielkwan/Projects/7languages7weeks/scala/StringClass.scala",
 		"/Users/danielkwan/Projects/7languages7weeks/haskell/7days3/starterSpec.hs",
 		"/Users/danielkwan/Projects/scala/project/src/test/scala/testCensorTrait.scala",
 		"/Users/danielkwan/Projects/scala/project/src/main/scala/StringClass.scala",
@@ -123,14 +127,43 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "/Users/danielkwan/Projects/7languages7weeks/scala/project"
+			"path": "/Users/danielkwan/Projects/javascript"
 		}
 	],
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/danielkwan/Projects/javascript/src/main.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 21,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -189,11 +222,11 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
